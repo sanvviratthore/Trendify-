@@ -71,20 +71,7 @@ Update the firebase_options.dart file if needed
 Run the App:
 flutter run
 
-Project Structure:
-
-trendify/
-├── lib/
-│   ├── main.dart              # Entry point of the app
-│   ├── pages/
-│   │   ├── dashboard_screen.dart  # Trend Dashboard UI
-│   │   ├── recommendation_screen.dart # Personalized Recommendations
-│   ├── widgets/
-│   │   ├── trend_card.dart        # Reusable widget for trend cards
-│   │   ├── metric_card.dart       # Widget for metric display
-│   ├── services/
-│       ├── api_service.dart       # Data fetching and processing
-Contribution Guidelines
+Contribution Guidelines:
 Fork the repository.
 Create a new feature branch:
 git checkout -b feature-name
